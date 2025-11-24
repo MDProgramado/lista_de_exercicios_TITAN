@@ -12,9 +12,11 @@ function soma(numero1, numero2) {
     + resultadoSoma +
     "\n, o resultado da subtração é " 
     + resultadoSubstracao +
-     "\n, o resultado da duvisãao é "
-     + resultadoDivisao +
+     "\n, o resultado da multiplicação é "
+     + resultadoMultiplicacao +
      "\n, o resultado da divisão é"
       + resultadoDivisao 
     return  resultados
 } 
+
+console.log(soma(numero1, numero2))
